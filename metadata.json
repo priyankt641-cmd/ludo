@@ -1,0 +1,7 @@
+{
+  "name": "Classic Ludo",
+  "description": "A complete, colorful classic Ludo board game with animated dice, responsive board, smart AI, sound effects, and local multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
